@@ -1,2 +1,2 @@
-# abhnvjn-Basic-SpringBoot-Microservice-Application
+# Basic-SpringBoot-Microservice-Application
 abhnvjn/Basic-SpringBoot-Microservice-Application (Without Service Discovery)
